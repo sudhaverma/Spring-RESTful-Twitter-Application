@@ -1,0 +1,15 @@
+<html>
+	<head>
+		<title>Tweets Result</title>
+	</head>
+	<body>
+		<h3>Hello, <span th:text="${twitterProfile.name}">Some User</span>!</h3>
+		
+		<h4>These are your searched tweets:</h4>
+		
+		<ul>
+            <li th:each="tweet:${tweets}" th:text="${tweet.text}">tweet</li>
+        </ul>
+		
+	</body>
+</html>
