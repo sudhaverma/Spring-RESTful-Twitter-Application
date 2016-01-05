@@ -34,5 +34,5 @@ for directing the user to a a page where he can see the tweets with the given se
 TimelineController is responsible for displaying of the recent 20 tweets from the user's timeline.
 
 
-Running the application:
+#Running the application:
 * Application.java class present in the project is the main class which makes the entire application to exceute.
