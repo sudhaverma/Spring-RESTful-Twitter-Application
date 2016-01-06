@@ -19,7 +19,7 @@ path for the same is given below:
 * Whenever the request comes from the end user with `http://locahost:8080`, the first page displayed will show that their is not connection made with Twitter application yet and the user will be asked to connect first before accessing any feature.
 Here's the view which is shown when no connection exists.
 
-src/main/resources/templates/connect/twitterConnect.html
+![Connect to Twitter](https://www.dropbox.com/s/mzqd0d3jkp8kx8u/connect_twitter_jpeg.jpg?dl=0)
 
 * Once the user clicks on the submit button of the above page, a POST request will be generated and the user will pass through OAuth flow and below is the view when the user is connected with Twitter. Everything is taken care by the ConnectController of the Twitter API.
 
