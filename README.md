@@ -1,7 +1,7 @@
 
 #Description
-This ia a simple restful application which allows a third party application to access user's resources on Twitter(i.e, accessing friends list, searching for a particular tweet on the timeline and reading top 20 recent tweets from user's timeline)
-Used Spring RESTful API to clone basic twitter feaures.
+This is a simple restful application which allows a third party application to access user's resources on Twitter(i.e, accessing friends list, searching for a particular tweet on the timeline and reading top 20 recent tweets from user's timeline).
+This used Spring RESTful API to clone basic twitter feaures.
 
 #What you need to do before using this application
 * [JDK version 1.8](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
